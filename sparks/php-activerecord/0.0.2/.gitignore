@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+*.swo
+config/*.swp
+libraries/*.swp
+user_guide/
